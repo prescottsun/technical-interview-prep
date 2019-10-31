@@ -1,0 +1,6 @@
+sneakers = [
+  { Id: 1, Brand: "Nike", Style: "Sacai Blazer", Price: 120 },
+  { Id: 2, Brand: "Adidas", Style: "Ultraboost", Price: 180 },
+  { Id: 3, Brand: "Nike", Style: "Air Jordan 1", Price: 160 },
+  { Id: 4, Brand: "Vans", Style: "Old Skool", Price: 70 }
+];
